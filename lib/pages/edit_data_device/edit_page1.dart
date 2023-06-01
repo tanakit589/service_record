@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:service_record/Controller/AddDevice_Info_controller.dart';
-import 'package:service_record/Model/AddDevice_Info_model.dart';
+import 'package:service_record/Controller/Device_Info_controller.dart';
+import 'package:service_record/Model/Device_Info_model.dart';
 import 'package:service_record/Service/AddDevice_Info_service.dart';
 import 'package:service_record/widgets/drawer.dart';
 

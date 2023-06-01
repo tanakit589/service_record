@@ -241,7 +241,7 @@ class _service_reportpage4State extends State<service_reportpage4> {
               ),
              
               Row(
-                mainAxisAlignment: MainAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: [
                   Padding(
                     padding: const EdgeInsets.all(15.0),

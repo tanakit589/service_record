@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_language_fonts/google_language_fonts.dart';
+import 'package:group_button/group_button.dart';
 import 'package:hand_signature/signature.dart';
 import 'package:service_record/Controller/CheckList_Istat1_controller.dart';
 import 'package:service_record/Service/CheckList_Istat1_service.dart';
@@ -8,7 +9,6 @@ import 'package:service_record/pages/Checklist_istat1/preview_pdf_Checklist.dart
 import 'package:service_record/pages/HomePage.dart';
 
 import 'package:service_record/pages/ListJob.dart';
-import 'package:service_record/pages/service_report/Service_reportfull.dart';
 import 'package:service_record/pages/service_report/service_reportpage1.dart';
 
 import 'package:service_record/widgets/drawer.dart';
@@ -197,7 +197,8 @@ class _Checklist_istat_Page5State extends State<Checklist_istat_Page5> {
               ),
            
               Row(
-                mainAxisAlignment: MainAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                
                 children: [
                   Padding(
                     padding: const EdgeInsets.all(10.0),

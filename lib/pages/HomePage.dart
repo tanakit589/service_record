@@ -9,7 +9,7 @@ import 'package:service_record/Model/Job_Data_model.dart';
 import 'package:service_record/Model/User_Data_model.dart';
 import 'package:service_record/Service/Job_Data_service.dart';
 import 'package:service_record/Service/User_Data_service.dart';
-import 'package:service_record/pages/CreateJob/Page1.dart';
+import 'package:service_record/pages/CreateJob/FindErrorCodePage%201.dart';
 import 'package:service_record/pages/History/ListJob_search.dart';
 import 'package:service_record/pages/History/history.dart';
 
@@ -19,7 +19,7 @@ import 'package:service_record/pages/Loginpage.dart';
 
 import 'package:service_record/pages/NewJob.dart';
 import 'package:service_record/pages/UncompletedJob.dart';
-import 'package:service_record/pages/add_device/page1.dart';
+import 'package:service_record/pages/add_device/AddDataPage1.dart';
 import 'package:service_record/pages/edit_data_device/edit_page1.dart';
 
 import 'package:service_record/widgets/drawer.dart';

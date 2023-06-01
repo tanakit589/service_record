@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'package:service_record/pages/Loginpage.dart';
-import 'package:service_record/pages/add_device/page1.dart';
+import 'package:service_record/pages/add_device/AddDataPage1.dart';
 import 'package:service_record/pages/edit_data_device/edit_page1.dart';
 
 

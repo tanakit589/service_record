@@ -7,7 +7,7 @@ import 'package:flutter/src/material/colors.dart';
 import 'package:provider/provider.dart';
 import 'package:service_record/pages/Checklist_istat1/Checklist_Istat1_ConsumerModel.dart';
 import 'package:service_record/pages/Checklist_istat1/Page1.dart';
-import 'package:service_record/pages/CreateJob/Page1.dart';
+import 'package:service_record/pages/CreateJob/FindErrorCodePage%201.dart';
 import 'package:service_record/pages/History/history.dart';
 import 'package:service_record/pages/HomePage.dart';
 
@@ -17,7 +17,7 @@ import 'package:service_record/pages/Loginpage.dart';
 import 'package:service_record/pages/add_device/List_Device.dart';
 import 'package:service_record/pages/add_device/List_DeviceModel.dart';
 import 'package:service_record/pages/add_device/List_Hospital.dart';
-import 'package:service_record/pages/add_device/page1.dart';
+import 'package:service_record/pages/add_device/AddDataPage1.dart';
 import 'package:service_record/pages/service_report/service_reportpage1.dart';
 import 'package:service_record/pages/service_report/service_reportpage2.dart';
 import 'package:service_record/pages/service_report/service_reportpage3.dart';

@@ -282,7 +282,7 @@ class _service_reportPageState extends State<service_reportpage1> {
                     ),
               
                     Row(
-                      crossAxisAlignment: CrossAxisAlignment.center,
+                    
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Padding(
