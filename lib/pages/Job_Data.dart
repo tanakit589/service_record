@@ -4,7 +4,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:provider/provider.dart';
-import 'package:service_record/pages/CreateJob/FindErrorCodePage%201.dart';
 import 'package:service_record/pages/ListJob.dart';
 
 import 'package:service_record/pages/service_report/homepage_report.dart';

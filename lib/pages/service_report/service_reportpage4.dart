@@ -6,7 +6,7 @@ import 'package:service_record/Service/Job_Data_service.dart';
 import 'package:service_record/Service/service_report_service.dart';
 import 'package:service_record/pages/HomePage.dart';
 import 'package:service_record/pages/ListJob.dart';
-import 'package:service_record/pages/service_report/preview_pdf_ServiceRrport.dart';
+import 'package:service_record/pages/service_report/preview_pdf_ServiceReport.dart';
 import 'package:service_record/pages/service_report/service_reportpage1.dart';
 import 'package:service_record/pages/service_report/service_reportpage2.dart';
 import 'package:service_record/pages/service_report/service_reportpage3.dart';
